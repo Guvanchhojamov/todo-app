@@ -1,0 +1,10 @@
+#config.yml  file
+local_port: "8088"
+
+db:
+    host: "localhost"
+    port: "5436"
+    username : "postgres"
+    password : "12345"
+    dbName : "todo_db"
+    sslmode: "disable"
